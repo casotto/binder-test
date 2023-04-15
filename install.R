@@ -1,0 +1,7 @@
+install.packages("data.table")
+install.packages("statmod")
+install.packages("ggplot2")
+install.packages("tweedie")
+install.packages("glmnet")
+install.packages("HDtweedie")
+install.packages("plotly")
